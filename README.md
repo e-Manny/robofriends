@@ -1,7 +1,7 @@
 # Robofriends
 Awesome super-responsive REACT app that shows you all of your robot friends and their contact information!
 
-**Link to project:** https://e-manny.github.io/robofriends/
+**See it live:** https://e-manny.github.io/robofriends/
 
 ![project0](https://user-images.githubusercontent.com/84434314/219566149-d68abab6-2a7c-4d42-a67c-c3edd6c76b0b.jpg)
 
